@@ -1,2 +1,2 @@
-# Farazkhandemo
-This is my first repository
+# Farazkhan-demo
+This is my first git repository
